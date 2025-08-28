@@ -45,7 +45,7 @@ This project includes **DepotDownloaderMod.exe** (from the [SteamAutoCracks/Depo
 
 1. Run the script:
    ```
-   python map_downloader.py
+   python map.py
    ```
 
 2. **Select Account**: Choose from the dropdown (pre-configured).
